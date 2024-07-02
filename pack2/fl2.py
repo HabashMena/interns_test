@@ -3,4 +3,4 @@ def fun2():
     print("suhib edit")
 from pack1.fl1 import *
 
-fun1()
+fun2()
